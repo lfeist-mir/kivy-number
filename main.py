@@ -7,7 +7,6 @@ from home import Home
 from history import History
 from mydatabase import Database
 
-Window.size=(500,800)
 Window.softinput_mode="below_target"
 
 class Interface(ScreenManager):
